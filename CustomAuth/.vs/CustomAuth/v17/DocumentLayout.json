@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\views\\account\\securepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\views\\account\\securepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\migrations\\20240828033734_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\migrations\\20240828033734_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|c:\\users\\admin\\source\\repos\\customauth\\customauth\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4D1E22-66A6-44C3-A529-DF3F0D300876}|CustomAuth\\CustomAuth.csproj|solutionrelative:customauth\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1204970601:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1627928588:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1646721036:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Program.cs",
+              "RelativeDocumentMoniker": "CustomAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Program.cs",
+              "RelativeToolTip": "CustomAuth\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:04:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "CustomAuth\\Views\\Account\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Account\\Registration.cshtml",
+              "RelativeToolTip": "CustomAuth\\Views\\Account\\Registration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:39:22.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Account\\SecurePage.cshtml",
+              "RelativeDocumentMoniker": "CustomAuth\\Views\\Account\\SecurePage.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Account\\SecurePage.cshtml",
+              "RelativeToolTip": "CustomAuth\\Views\\Account\\SecurePage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:32:57.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CustomAuth\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CustomAuth\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwFcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:35:05.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustomAuth\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "CustomAuth\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:33:27.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CustomAuth\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CustomAuth\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:33:24.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CustomAuth\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CustomAuth\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:03:31.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240828033734_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Migrations\\20240828033734_InitialMigration.cs",
+              "RelativeDocumentMoniker": "CustomAuth\\Migrations\\20240828033734_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Migrations\\20240828033734_InitialMigration.cs",
+              "RelativeToolTip": "CustomAuth\\Migrations\\20240828033734_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:03:17.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CustomAuth\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CustomAuth\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:03:16.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CustomAuth\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CustomAuth\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:35:04.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CustomAuth\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CustomAuth\\CustomAuth\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CustomAuth\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T06:35:51.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+﻿@page
+@model RazorPage_CRUD.Pages.Products.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>List product</h3>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Product[0].name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product[0].price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product[0].quantity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Product != null && Model.Product.Any())
+        {
+            @foreach (var item in Model.Product)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.quantity)
+                    </td>
+                    <td>
+                        <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a> |
+                        <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-success">Details</a> |
+                        <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }   }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center">
+                    Product not avaiable in the moment
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

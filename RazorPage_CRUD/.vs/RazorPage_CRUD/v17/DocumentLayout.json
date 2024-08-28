@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|c:\\users\\admin\\source\\repos\\razorpage_crud\\razorpage_crud\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|solutionrelative:razorpage_crud\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|c:\\users\\admin\\source\\repos\\razorpage_crud\\razorpage_crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|solutionrelative:razorpage_crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|c:\\users\\admin\\source\\repos\\razorpage_crud\\razorpage_crud\\data\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|solutionrelative:razorpage_crud\\data\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|c:\\users\\admin\\source\\repos\\razorpage_crud\\razorpage_crud\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|solutionrelative:razorpage_crud\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|c:\\users\\admin\\source\\repos\\razorpage_crud\\razorpage_crud\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AC876CC-DFFE-420B-A4FC-C4E5D9E78E1F}|RazorPage_CRUD\\RazorPage_CRUD.csproj|solutionrelative:razorpage_crud\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1204970601:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1627928588:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1646721036:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RazorPage_CRUD\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Models\\Product.cs",
+              "RelativeToolTip": "RazorPage_CRUD\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:50:38.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage_CRUD\\Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPage_CRUD\\Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:21:47.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Data\\MyAppDbContext.cs",
+              "RelativeDocumentMoniker": "RazorPage_CRUD\\Data\\MyAppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Data\\MyAppDbContext.cs",
+              "RelativeToolTip": "RazorPage_CRUD\\Data\\MyAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:21:14.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorPage_CRUD\\Pages\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "RazorPage_CRUD\\Pages\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:10:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RazorPage_CRUD\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RazorPage_CRUD\\RazorPage_CRUD\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "RazorPage_CRUD\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:10:16.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
